@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrisJumbo
 - 👀 I’m interested in Data Science, ML and AI.
-- 🌱 I’m currently learning Alteryx in Data Analytics.
-- 💞️ I’m looking to collaborate on R, Tableau, Matlab, Numpy, Matplotlib and Python programming.
+- 🌱 I’m currently learning Excel, SPSS, and Alteryx in Data Analytics.
+- 💞️ I’m looking forward to collaborating with anyone on R, Tableau, Matlab, Numpy, Matplotlib and Python programming.
 - 📫 How to reach me: cjumboworld@gmail.com
 
 <!---
