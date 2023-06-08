@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisJumbo
 - 👀 I’m a Data Analyst who is conversant with Excel, Google Sheets, Google BigQuery, Power BI, Tableau and R
-- 🌱 I’m also proficient in SPSS, and Alteryx Designer.
+- 🌱 I’m also proficient in SPSS.
 - 💞️ I’m looking forward to collaborating with anyone on Python programming.
 - 📫 How to reach me: cjumboworld@gmail.com
 
